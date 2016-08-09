@@ -51,7 +51,7 @@ The corresponding scripts in R are labelled the same Plot1.R, Plot2.R, Plot3.R, 
 
 ```{r}
 #original raw zip file location
-"https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 ```
 
 
